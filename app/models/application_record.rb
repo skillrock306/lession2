@@ -1,4 +1,4 @@
 class ApplicationRecord < ActiveRecord::Base
-	# ATRC
+	# ATRC AASDSAD
   self.abstract_class = true
 end
